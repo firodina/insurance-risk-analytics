@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+
+# Data folders
+data
+data/raw/*
+data/processed/*
+data/outputs/*
