@@ -13,8 +13,8 @@ __pycache__/
 .vscode/
 
 
-# Data folders
-data
-data/raw/*
-data/processed/*
-data/outputs/*
+# # Data folders
+# data
+# data/raw/*
+# data/processed/*
+# data/outputs/*
