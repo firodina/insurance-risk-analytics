@@ -1,4 +1,4 @@
 [core]
     remote = localstore
 ['remote "localstore"']
-    url = ../UsershpDesktoplocalStorage
+    url = C:/Users/hp/Desktop/localStorage
